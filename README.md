@@ -6,8 +6,6 @@ Made public in memory of COVID-19, and in hopes that it may never be needed agai
 
 ## Usage
 
-### Setup
-
 1. Clone this repo
 2. Install dependencies: `pip3 install -r requirements.txt`
 3. Create `people.csv`, `tracking.csv`, `users.csv` in `data` folder
